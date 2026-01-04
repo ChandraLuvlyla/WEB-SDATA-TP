@@ -1,0 +1,45 @@
+[
+    {
+        "request_id": 1,
+        "order_number": 1003,
+        "customer_name": "Davin",
+        "customer_nik": "1233257923579221",
+        "total_amount": 50000,
+        "food_count": 1,
+        "drink_count": 1,
+        "request_date": "2026-01-04 16:48:44",
+        "status": "approved",
+        "action_by": "Admin",
+        "action_date": "2026-01-04 16:54:47",
+        "reason": "Pesanan disetujui"
+    },
+    {
+        "request_id": 2,
+        "order_number": 1004,
+        "customer_name": "Alina",
+        "customer_nik": "1232534646767989",
+        "total_amount": 47000,
+        "food_count": 1,
+        "drink_count": 1,
+        "request_date": "2026-01-04 17:55:26",
+        "status": "approved",
+        "action_by": "Admin",
+        "action_date": "2026-01-04 17:58:56",
+        "reason": "Pesanan disetujui"
+    },
+    {
+        "request_id": 3,
+        "order_number": 1005,
+        "customer_name": "Reno",
+        "customer_kode": "A07",
+        "total_amount": 77000,
+        "food_count": 2,
+        "drink_count": 1,
+        "request_date": "2026-01-04 20:36:03",
+        "type": "new_order",
+        "status": "pending",
+        "action_by": "",
+        "action_date": "",
+        "reason": ""
+    }
+]

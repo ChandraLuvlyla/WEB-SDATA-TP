@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Burger Special",
+        "price": 35000,
+        "category": "makanan",
+        "cost": 15000
+    },
+    {
+        "id": 2,
+        "name": "French Fries",
+        "price": 20000,
+        "category": "makanan",
+        "cost": 8000
+    },
+    {
+        "id": 3,
+        "name": "Chicken Nuggets",
+        "price": 25000,
+        "category": "makanan",
+        "cost": 12000
+    },
+    {
+        "id": 4,
+        "name": "Pizza Slice",
+        "price": 30000,
+        "category": "makanan",
+        "cost": 18000
+    },
+    {
+        "id": 5,
+        "name": "Hot Dog",
+        "price": 22000,
+        "category": "makanan",
+        "cost": 10000
+    },
+    {
+        "id": 6,
+        "name": "Soft Drink",
+        "price": 12000,
+        "category": "minuman",
+        "cost": 3000
+    },
+    {
+        "id": 7,
+        "name": "Ice Cream Sundae",
+        "price": 15000,
+        "category": "minuman",
+        "cost": 5000
+    },
+    {
+        "id": 8,
+        "name": "Chocolate Milkshake",
+        "price": 22000,
+        "category": "minuman",
+        "cost": 8000
+    },
+    {
+        "id": 9,
+        "name": "Vanilla Milkshake",
+        "price": 22000,
+        "category": "minuman",
+        "cost": 8000
+    },
+    {
+        "id": 10,
+        "name": "Iced Tea",
+        "price": 10000,
+        "category": "minuman",
+        "cost": 2000
+    }
+]
